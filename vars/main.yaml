@@ -1,0 +1,21 @@
+---
+
+
+pkg: 
+  - vim
+  - php
+  - php-mysql
+  - httpd
+  
+db_host:
+  - 192.168.1.14
+
+mysql_dbname:
+  - dbyoussefform
+
+mysql_user:
+  - youssef
+
+mysql_password:
+  - ""
+
